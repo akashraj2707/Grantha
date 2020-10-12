@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408131234184",
+    "firebase_url": "https://grantha-4a85f.firebaseio.com",
+    "project_id": "grantha-4a85f",
+    "storage_bucket": "grantha-4a85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408131234184:android:04166961c75860c8d2323d",
+        "android_client_info": {
+          "package_name": "com.example.grantha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408131234184-7ca15qj8ietau7e9i3ffb18l1lk8gtlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CurDiV92wQ5cWckj2kzyPkrJn3Uif0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408131234184-7ca15qj8ietau7e9i3ffb18l1lk8gtlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
